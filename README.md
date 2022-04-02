@@ -1,6 +1,4 @@
-# Credit_Risk_Analysis
-
-# Overview of the analysis
+# Overview of the Credit_Risk_Analysis
 The purpose of this challenge was to use machine learning to predict credit card risk. We tested multiple algorithms for 
 accuracy using the credit card credit dataset from LendingClub, a peer-to-peer lending services company, to see 
 which one best forecasts low and high-risk loan applications.
